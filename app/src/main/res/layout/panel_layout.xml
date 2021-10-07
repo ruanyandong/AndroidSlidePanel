@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:background="#00FF00"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <com.ryd.slidingpanel.xpanel.lib.view.widget.PanelScrollView
+        android:id="@+id/xp_scroll_view"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:paddingTop="97dp"
+        android:overScrollMode="never"
+        android:scrollbars="none">
+
+        <LinearLayout
+            android:id="@+id/xp_cell_container"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" />
+
+    </com.ryd.slidingpanel.xpanel.lib.view.widget.PanelScrollView>
+
+</FrameLayout>

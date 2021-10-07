@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidStudioProjects/Android_CustomView/SlidingPanel/app/src/main/res/drawable/panel_bg.xml" value="0.20729166666666668" />
+        <entry key="..\:/AndroidStudioProjects/Android_CustomView/SlidingPanel/app/src/main/res/layout/activity_entry.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/Android_CustomView/SlidingPanel/app/src/main/res/layout/activity_hover_view.xml" value="0.18697916666666667" />
+        <entry key="..\:/AndroidStudioProjects/Android_CustomView/SlidingPanel/app/src/main/res/layout/activity_xpanel.xml" value="0.18697916666666667" />
+        <entry key="..\:/AndroidStudioProjects/Android_CustomView/SlidingPanel/app/src/main/res/layout/demo_card_view.xml" value="0.18697916666666667" />
+        <entry key="..\:/AndroidStudioProjects/Android_CustomView/SlidingPanel/app/src/main/res/layout/panel_card_parent_layout.xml" value="0.18697916666666667" />
+        <entry key="..\:/AndroidStudioProjects/Android_CustomView/SlidingPanel/app/src/main/res/layout/panel_layout.xml" value="0.18697916666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
